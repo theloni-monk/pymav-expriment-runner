@@ -6530,6 +6530,7 @@
                 "stopTakingPhotos": true,
                 "stopVideoPhotos": true,
                 "type": "ComplexItem",
+                "useLoiterToAlt": false,
                 "valueSetIsDistance": false,
                 "version": 2
             }
